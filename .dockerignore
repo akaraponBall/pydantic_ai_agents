@@ -1,0 +1,15 @@
+.git/
+.venv/
+.env
+.env.*
+settings.local.json
+mcp.local.json
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ruff_cache/
+.pytest_cache/
+workspace/
+tests/

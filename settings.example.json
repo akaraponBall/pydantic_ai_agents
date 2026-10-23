@@ -1,0 +1,8 @@
+{
+  "model": "test",
+  "additional_instructions": "",
+  "workspace": null,
+  "mcp_config": null,
+  "request_limit": 12,
+  "run_timeout_seconds": 60
+}
